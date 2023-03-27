@@ -97,9 +97,9 @@
       },
       {
         "id": "8",
-        "thumbnailImage": "https://img.youtube.com/vi/VDfw0MQ-L70&t/hqdefault.jpg",
+        "thumbnailImage": "https://img.youtube.com/vi/VDfw0MQ-L70/hqdefault.jpg",
         "title": "Preserving Tuvalu — the world’s first completely digitized nation",
-        "src": "VDfw0MQ-L70&t",
+        "src": "VDfw0MQ-L70",
         "type": "video",
         "sourceType": "MEDIA_SOURCE_TYPE.youtube",
         "pinned": false,
