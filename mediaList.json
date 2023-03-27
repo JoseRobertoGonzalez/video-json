@@ -61,13 +61,13 @@
     },
     {
         "id": "5",
-        "thumbnailImage": "https://by3302files.storage.live.com/y4mJHPKYRDVa0Tq0tEL0MLkNp8Od4hPhcYudyjGdnU7DgErpEgEAflpu3f4QLCa5BjIwE11D2R3iKGauB3I0pbJDKSKrc6hMCB46pMB7fdsmbiAao0C5RmXOfzEZKcX6dFwQiIod2G0zeyfRL2akN9A8jw0Pf-sGWnKkXE-nMWv8-42_jM88n-F3PooGSSKaAyH?width=660&height=372&cropmode=none",
-        "title": "Onboarding to Teams Apps",
-        "src": "https://livesharemedia-usw22.streaming.media.azure.net/8bf16f5f-d4b0-437b-8121-d780abe744c9/Onboarding_Video11_Final_H264.ism/manifest(format=mpd-time-cmaf,encryption=cbc)",
+        "thumbnailImage": "https://img.youtube.com/vi/36UMKTggQHQ/hqdefault.jpg",
+        "title": "Accenture at Adobe Summit 2023",
+        "src": "36UMKTggQHQ",
         "type": "video",
-        "sourceType": "MEDIA_SOURCE_TYPE.azureMediaPlayer",
+        "sourceType": "MEDIA_SOURCE_TYPE.youtube",
         "pinned": false,
-        "length": "2:54",
+        "length": "0:56",
         "uploadedBy": "uploadedBy.org",
         "category": "Other Videos"
       },
@@ -97,13 +97,13 @@
       },
       {
         "id": "8",
-        "thumbnailImage": "https://images4.alphacoders.com/247/247356.jpg",
-        "title": "Big Buck Bunny",
-        "src": "https://storage.googleapis.com/media-session/big-buck-bunny/trailer.mov",
+        "thumbnailImage": "https://img.youtube.com/vi/VDfw0MQ-L70&t/hqdefault.jpg",
+        "title": "Preserving Tuvalu — the world’s first completely digitized nation",
+        "src": "VDfw0MQ-L70&t",
         "type": "video",
-        "sourceType": "MEDIA_SOURCE_TYPE.html",
+        "sourceType": "MEDIA_SOURCE_TYPE.youtube",
         "pinned": false,
-        "length": "0:32",
+        "length": "2:46",
         "uploadedBy": "uploadedBy.org",
         "category": "Other Videos"
       }
